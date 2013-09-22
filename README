@@ -1,4 +1,4 @@
-Grand Prix Scorer is a simple text based Java program that helps keep score
+Grand Prix Scorer is a simple Java program that helps keep score
 of a Grand Prix/Pinewood Derby type of race.
 
 Grand Prix Scorer takes input from the user (number of cars, name of the cars if applicable,
@@ -10,6 +10,8 @@ The user then inputs the places for each racer. After scores have been recorded,
 Grand Prix Scorer then calculates the total scores and chooses the finalists for the
 last round based on lowest score and number of available lanes. The finalists
 are then randomly assigned lanes and heats (if applicable).
+
+Currently I am working on a user interface!
 
 Grand Prix scorer can easily be saved on your computer and run through the command prompt.
 
